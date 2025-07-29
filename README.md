@@ -50,7 +50,7 @@ java -jar target/comment-api-1.0.0.jar
 ```
 
 The application will start on:  
-📍 `http://localhost:8080`
+ `http://localhost:8080`
 
 ---
 
@@ -114,6 +114,6 @@ docker run -p 8080:8080 comment-api
 ```
 
 Now access the API at:  
-📍 `http://localhost:8080`
+ `http://localhost:8080`
 
 > Note: Since the app uses in-memory storage, all data is reset on container restart.
